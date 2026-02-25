@@ -1,0 +1,7 @@
+name = "changelog-api"
+main = "src/index.ts"
+compatibility_date = "2025-02-24"
+
+[vars]
+GITHUB_OWNER = "cloudboy-jh"
+ALLOWED_REPOS = "bento-tui,veil,pact,churn,porter"
